@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entity-facade-xml type="seed">
+    <SubscreensItem screenLocation="component://webroot/screen/webroot/apps.xml"
+                    subscreenName="tutorial" userGroupId="ALL_USERS"
+                    subscreenLocation="component://tutorial/screen/tutorial.xml"
+                    menuTitle="Tutorial" menuIndex="1" menuInclude="Y"/>
+</entity-facade-xml>
